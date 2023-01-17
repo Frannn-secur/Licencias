@@ -2,8 +2,6 @@ header {
     background-color: #272E61;
 }
 
-/* NAV */
-
 nav {
     grid-area: nav;
     color: #fff;
@@ -31,4 +29,30 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #CB3524;
+}
+
+
+.wrapper {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.wrapper h2 {
+    text-align: center;
+    color: #272E61;
+}
+.wrapper h1 {   
+    color: #272E61;
+}
+
+.wrapper p {
+    text-align: justify;
+    color: #272E61;
+}
+
+footer {
+    background-color: #272E61;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
 }
